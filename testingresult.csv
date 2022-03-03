@@ -1,0 +1,5 @@
+Gender,Married,Dependents,Education,Self_Employed,Credit_History,Property_Area,Loan_Status,LoanAmount_log,Total_Income,Total_Income_log,EMI,Balanced Income
+Male,No,0,Graduate,No,1,Urban,1,4.852030264,5849,8.674025985,0.355555556,5493.444444
+Male,Yes,1,Graduate,No,1,Rural,0,4.852030264,6091,8.714567551,0.355555556,5735.444444
+Male,Yes,0,Graduate,Yes,1,Urban,1,4.189654742,3000,8.006367568,0.183333333,2816.666667
+Male,Yes,3,Graduate,No,0,Semiurban,0,5.062595033,5540,8.61974978,0.438888889,5101.111111
