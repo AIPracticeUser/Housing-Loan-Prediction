@@ -33,9 +33,13 @@ Formed the initial hypothesis based on the findings and data cleansing and prove
 
 ### Revised Hypothesis
 Revised hypothesis based on the domain knowledge, came up with new features that might affect target variable
+
 Total Income = Combined Applicant Income with Co-Applicant Income
+
 Equated Monthly Instalment = Loan_Amount/Loan_Amount_Term
+
 Balanced Income = Total Income - (Equated Monthly Instalment * 1000)
+
 ![revisedhypothesis](https://user-images.githubusercontent.com/100339175/156573514-afc731f3-598a-42be-ac66-e04640cbcb8d.jpg)
 
 ### Predictive Analytics
