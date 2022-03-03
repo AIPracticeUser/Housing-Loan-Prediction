@@ -1,5 +1,5 @@
 # Housing Loan Prediction
-for more information pls look at the 
+for more information pls look at the https://github.com/AIPracticeUser/Loan-Prediction/raw/main/Housing_Loan_Prediction.pdf
 
 ### Problem Statement
 Loan eligibility can only be decided after long and intensive process of verification of documents and validation which takes a huge amount of time.
